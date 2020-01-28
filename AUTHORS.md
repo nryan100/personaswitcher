@@ -1,2 +1,0 @@
-# Members: 
-* Nicholas Ryan
